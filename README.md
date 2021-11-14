@@ -1,3 +1,7 @@
+# Advertencia!
+
+Para que los request a la API de empresa no devuelvan 401 - Unauthorized deberá cambiar el Authorization Bearer en el componente App.js.
+Para el cambio debe dirigirse al Swagger del gateway y copiar el Authorization de alguno de los endpoints que se exponen en el mismo.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
